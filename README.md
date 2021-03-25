@@ -25,18 +25,21 @@ There are a number of metrics produced from the t.test()function, but for now we
 
 The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot one.
 
-![lot1](https://user-images.githubusercontent.com/75647359/112541652-a4327580-8d81-11eb-9bf5-ae86cb77be91.PNG)
+![lot1b](https://user-images.githubusercontent.com/75647359/112548098-b1536280-8d89-11eb-9301-77a3fe5c2921.PNG)
 
-Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+Assuming our significance level was the common 0.05 percent, our p-value (0.00000000001568) is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot two.
 
-![lot2](https://user-images.githubusercontent.com/75647359/112541711-b6141880-8d81-11eb-8d87-55d69b240487.PNG)
+![lot2b](https://user-images.githubusercontent.com/75647359/112548183-d21bb800-8d89-11eb-8bdb-e3bce757eb5a.PNG)
 
-Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+Assuming our significance level was the common 0.05 percent, our p-value (0.0005911) is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot three. 
 
-![lot3](https://user-images.githubusercontent.com/75647359/112541748-c0cead80-8d81-11eb-8505-cc036d6eefee.PNG)
+![lot3b](https://user-images.githubusercontent.com/75647359/112548391-245cd900-8d8a-11eb-85c8-4a1385574d74.PNG)
 
-Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+Assuming our significance level was the common 0.05 percent, our p-value (0.1589) is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically dissimilar.
+
+## Study Design: MechaCar vs Competition
+If one wanted to create a statistical study to quanitfy how the MechaCar copany performs against the competition, one would want to run a linear regression taking into account different variables that might interest a consumer. For example, one might 

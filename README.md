@@ -20,4 +20,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![d31](https://user-images.githubusercontent.com/75647359/112539835-78ae8b80-8d7f-11eb-93f0-53e623dcb0cb.PNG)
 
-There are a number of metrics produced from the t.test()function, but for now we will only concern ourselves with the calculated p-value. Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+There are a number of metrics produced from the t.test()function, but for now we will only concern ourselves with the calculated p-value. Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.

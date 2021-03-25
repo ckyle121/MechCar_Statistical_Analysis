@@ -22,3 +22,21 @@ The test below displays the result of the t test of the total lot summary agains
 ![d31](https://user-images.githubusercontent.com/75647359/112539835-78ae8b80-8d7f-11eb-93f0-53e623dcb0cb.PNG)
 
 There are a number of metrics produced from the t.test()function, but for now we will only concern ourselves with the calculated p-value. Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+
+The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot one.
+
+![lot1](https://user-images.githubusercontent.com/75647359/112541652-a4327580-8d81-11eb-9bf5-ae86cb77be91.PNG)
+
+Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+
+The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot two.
+
+![lot2](https://user-images.githubusercontent.com/75647359/112541711-b6141880-8d81-11eb-8d87-55d69b240487.PNG)
+
+Assuming our significance level was the common 0.05 percent, our p-value is larger than our significance level. Therefore, we have sufficient evidence to accept the null hypothesis, and we would state that the two means are statistically different.
+
+The test below displays the result of the t test of the total lot summary against the mean PSI of the population for manufacturing lot three. 
+
+![lot3](https://user-images.githubusercontent.com/75647359/112541748-c0cead80-8d81-11eb-8505-cc036d6eefee.PNG)
+
+Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.

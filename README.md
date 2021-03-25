@@ -13,3 +13,5 @@ The Total Summary dataframe below displays the mean, median, variance, and stand
 The Lot Summary dataframe below displays the mean, median, variance, and standard deviation of the suspension coil’s PSI column grouped by Manufacturing Lot.
 
 ![deliverable2 b](https://user-images.githubusercontent.com/75647359/112535787-afce6e00-8d7a-11eb-87aa-334195f295d4.PNG)
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Currently, Manufacturing Lots One and Two are the only lots meeting that requirement. 
